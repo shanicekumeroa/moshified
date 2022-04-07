@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>chat</title>
+  <g>
+    <line x1="3.5" y1="4.5" x2="9.5" y2="4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="3.5" y1="6.5" x2="7.5" y2="6.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M2.1,8.9.5,10.5h6c3.31,0,6-2.24,6-5s-2.69-5-6-5-6,2.24-6,5A4.562,4.562,0,0,0,2.1,8.9Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M4.23,11.89A6.254,6.254,0,0,0,9.5,14.5h6l-1.6-1.6a4.562,4.562,0,0,0,1.6-3.4,4.419,4.419,0,0,0-1.11-2.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

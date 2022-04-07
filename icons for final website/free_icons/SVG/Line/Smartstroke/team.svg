@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>team</title>
+  <g>
+    <g>
+      <circle cx="13" cy="2" r="1.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M12,5.5l1,1,1-1h.548a.5.5,0,0,1,.5.45L15.5,9.5h-1l-.455,4.55a.5.5,0,0,1-.5.45h-1.1a.5.5,0,0,1-.5-.45L11.65,11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <circle cx="3" cy="2" r="1.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M4,5.5l-1,1-1-1H1.452a.5.5,0,0,0-.5.45L.5,9.5h1l.455,4.55a.5.5,0,0,0,.5.45h1.1a.5.5,0,0,0,.5-.45L4.35,11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <circle cx="8" cy="2" r="1.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M6.5,9.5l.455,5.55a.5.5,0,0,0,.5.45h1.1a.5.5,0,0,0,.5-.45L9.5,9.5h1l-.455-3.55a.5.5,0,0,0-.5-.45H9l-1,1-1-1H6.452a.5.5,0,0,0-.5.45L5.5,9.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

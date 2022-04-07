@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>music-album</title>
+  <g>
+    <rect x="4" width="8" height="3" rx="0.5" ry="0.5" fill="#512da8"/>
+    <rect x="2" y="2" width="12" height="3" rx="0.5" ry="0.5" fill="#673ab7"/>
+    <rect y="4" width="16" height="12" rx="0.5" ry="0.5" fill="#9575cd"/>
+    <path d="M8.593,6.009A.5.5,0,0,0,8,6.5v4.7A2.538,2.538,0,0,0,7,11c-1.122,0-2,.659-2,1.5S5.878,14,7,14s2-.659,2-1.5V7.186a1.445,1.445,0,0,1,1,1.251.5.5,0,0,0,1,0C11,6.874,9.426,6.165,8.593,6.009Z" fill="#ffc107"/>
+  </g>
+</svg>

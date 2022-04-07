@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>megaphone</title>
+  <g>
+    <polyline points="2.5 8.5 0.5 8.5 0.5 5.5 2.5 5.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="2.5" y="4.5" width="5" height="5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M7.5,9.5a11.013,11.013,0,0,1,8,4V.5a11.013,11.013,0,0,1-8,4" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M5.35,9.5l2.04,4.08a.5.5,0,0,1-.09.58L6.1,15.35a.5.5,0,0,1-.82-.17L3.15,9.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

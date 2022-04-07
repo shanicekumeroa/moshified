@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>android</title>
+  <g>
+    <path d="M4.5,12.5h-1v-7a4,4,0,1,1,8,0v7h-1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8.5" y1="12.5" x2="6.5" y2="12.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6.5,12.5v2a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1v-2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.5,12.5v2a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1v-2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="1.5" y1="5.5" x2="1.5" y2="10.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="13.5" y1="5.5" x2="13.5" y2="10.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="3.5" y1="5.5" x2="11.5" y2="5.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="4.82" y1="2.54" x2="3.5" y2="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="11.5" y1="0.5" x2="10.26" y2="2.61" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="8.5" cy="3.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="6.5" cy="3.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

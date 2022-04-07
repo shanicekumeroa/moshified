@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>compact-disk</title>
+  <g>
+    <circle cx="10" cy="8" r="6" fill="#cfd8dc"/>
+    <circle cx="10" cy="8" r="1.5" fill="#fafafa"/>
+    <rect y="1" width="10" height="14" rx="1" ry="1" fill="#2196f3"/>
+    <path d="M5.593,4.009a.5.5,0,0,0-.412.106A.5.5,0,0,0,5,4.5V9.2A2.538,2.538,0,0,0,4,9c-1.122,0-2,.659-2,1.5S2.878,12,4,12s2-.659,2-1.5V5.186A1.445,1.445,0,0,1,7,6.438a.5.5,0,0,0,1,0C8,4.874,6.425,4.165,5.593,4.009Z" fill="#fafafa"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>selfie</title>
+  <g>
+    <rect x="1.5" y="1.5" width="11" height="6" rx="0.5" ry="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="5.5" y="7.5" width="4" height="2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10.5" y1="1.5" x2="10.5" y2="7.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="7.5" y1="0.5" x2="7.5" y2="1.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10.02" y1="12.02" x2="7.5" y2="9.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="14 14.158 12.517 15.5 9.161 12.794 10.644 11.451 14 14.158" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="5 3 5 6 8 4.5 5 3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

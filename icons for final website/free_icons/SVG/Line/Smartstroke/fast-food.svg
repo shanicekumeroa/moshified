@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>fast-food</title>
+  <g>
+    <rect x="0.5" y="11.5" width="11" height="2" rx="1" ry="1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.5,13.5h0a2,2,0,0,1-2,2h-5a2,2,0,0,1-2-2h0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.5,11.5h0a2,2,0,0,0-2-2h-5a2,2,0,0,0-2,2h0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="8.778 7.563 8.5 4.5 15.5 4.5 14.5 15.5 12 15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="15.5 1.5 12.5 1.5 12 4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>inbox</title>
+  <g>
+    <g>
+      <path d="M15,14.5H1A.5.5,0,0,1,.5,14V8.5h3l1,2h7l1-2h3V14A.5.5,0,0,1,15,14.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="0.5 8.5 4 2.5 12 2.5 15.5 8.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <line x1="5.5" y1="4.5" x2="10.5" y2="4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="4.5" y1="6.5" x2="11.5" y2="6.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

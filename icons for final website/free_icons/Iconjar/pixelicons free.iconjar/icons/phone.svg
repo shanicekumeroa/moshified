@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>phone</title>
+  <g>
+    <path d="M7.5,16h-3A2.5,2.5,0,0,1,2,13.5v-1a.5.5,0,0,1,1,0v1A1.5,1.5,0,0,0,4.5,15h3A1.5,1.5,0,0,0,9,13.5v-1a.5.5,0,0,1,1,0v1A2.5,2.5,0,0,1,7.5,16Z" fill="#455a64"/>
+    <rect x="6" width="10" height="13" rx="1" ry="1" fill="#eceff1"/>
+    <path d="M4.553,4.012l.289-.578A1.507,1.507,0,0,0,5,2.764V1.5A1.5,1.5,0,0,0,3.5,0h-2A1.5,1.5,0,0,0,0,1.5V2.764a1.507,1.507,0,0,0,.158.67l.289.578A.5.5,0,0,1,.5,4.236V8.764a.5.5,0,0,1-.053.223l-.289.578A1.509,1.509,0,0,0,0,10.236V11.5A1.5,1.5,0,0,0,1.5,13h2A1.5,1.5,0,0,0,5,11.5V10.236a1.509,1.509,0,0,0-.158-.671l-.289-.578A.5.5,0,0,1,4.5,8.764V4.236A.5.5,0,0,1,4.553,4.012Z" fill="#607d8b"/>
+    <rect x="8" y="2" width="6" height="3" rx="0.5" ry="0.5" fill="#2196f3"/>
+    <rect x="10.5" y="8" width="1" height="1" fill="#90a4ae"/>
+    <rect x="10.5" y="6" width="1" height="1" fill="#90a4ae"/>
+    <rect x="10.5" y="10" width="1" height="1" fill="#90a4ae"/>
+    <rect x="8" y="8" width="1" height="1" fill="#90a4ae"/>
+    <rect x="8" y="6" width="1" height="1" fill="#90a4ae"/>
+    <rect x="8" y="10" width="1" height="1" fill="#90a4ae"/>
+    <rect x="13" y="8" width="1" height="1" fill="#90a4ae"/>
+    <rect x="13" y="6" width="1" height="1" fill="#90a4ae"/>
+    <rect x="13" y="10" width="1" height="1" fill="#90a4ae"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>mobile-apps</title>
+  <g>
+    <path d="M13,0H4A1,1,0,0,0,3,1V15a1,1,0,0,0,1,1h9a1,1,0,0,0,1-1V1A1,1,0,0,0,13,0Zm0,13H4V2h9Z"/>
+    <rect x="5" y="4" width="3" height="3" rx="0.5" ry="0.5"/>
+    <rect x="5" y="8" width="3" height="3" rx="0.5" ry="0.5"/>
+    <rect x="9" y="4" width="3" height="3" rx="0.5" ry="0.5"/>
+  </g>
+</svg>

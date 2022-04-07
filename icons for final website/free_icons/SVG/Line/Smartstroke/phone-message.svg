@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>phone-message</title>
+  <g>
+    <path d="M7.86,14.22l1.31-2.71a9.833,9.833,0,0,0,4.33.99v3a13,13,0,0,1-13-13h3a9.833,9.833,0,0,0,.99,4.33L1.78,8.14" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <path d="M11,6.5l-1.5,2v-2H8A.5.5,0,0,1,7.5,6V2A.5.5,0,0,1,8,1.5h7a.5.5,0,0,1,.5.5V6a.5.5,0,0,1-.5.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

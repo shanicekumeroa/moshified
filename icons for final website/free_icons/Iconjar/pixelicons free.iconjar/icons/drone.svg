@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>drone</title>
+  <g>
+    <g>
+      <path d="M1.5,2.5h2a0,0,0,0,1,0,0v1a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1v-1A0,0,0,0,1,1.5,2.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="2.5" y1="0.5" x2="2.5" y2="2.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="0.5" y1="0.5" x2="4.5" y2="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M12.5,2.5h2a0,0,0,0,1,0,0v1a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1v-1A0,0,0,0,1,12.5,2.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="13.5" y1="0.5" x2="13.5" y2="2.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="11.5" y1="0.5" x2="15.5" y2="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="2.5" y1="4.5" x2="13.5" y2="4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M4.5,4.5l.811,3.243a1,1,0,0,0,.97.757H9.719a1,1,0,0,0,.97-.757L11.5,4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M10.75,7.5h.29a3,3,0,0,1,2.94,2.41l.52,2.59" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M1.5,12.5l.52-2.59A3,3,0,0,1,4.96,7.5h.29" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <circle cx="8" cy="13" r="2.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="8" cy="13.5" r="1" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="7 10.71 7 8.5 9 8.5 9 10.71" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

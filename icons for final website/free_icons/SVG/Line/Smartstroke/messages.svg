@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>messages</title>
+  <g>
+    <path d="M1.548,9.884.5,12.5l2.616-1.048A5.929,5.929,0,0,0,6.5,12.5a6,6,0,1,0-6-6A5.929,5.929,0,0,0,1.548,9.884Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14.45,7.43a5.009,5.009,0,0,1,.18,5.89l.87,2.18-2.18-.87a5.009,5.009,0,0,1-5.89-.18" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

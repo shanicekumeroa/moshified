@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>facebook</title>
+  <g>
+    <rect width="16" height="16" rx="2" ry="2" fill="#1976d2"/>
+    <path d="M13.5,8H11V6c0-.552.448-.5,1-.5h1V3H11A3,3,0,0,0,8,6V8H6v2.5H8V16h3V10.5h1.5Z" fill="#fafafa" fill-rule="evenodd"/>
+  </g>
+</svg>

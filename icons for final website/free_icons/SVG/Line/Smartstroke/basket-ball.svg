@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>basket-ball</title>
+  <g>
+    <circle cx="8" cy="8" r="7.5" transform="translate(-3.314 8) rotate(-45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="2.697" y1="2.697" x2="13.303" y2="13.303" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="13.303" y1="2.697" x2="2.697" y2="13.303" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M7.88.512a9.279,9.279,0,0,0,2.6,5.013,9.279,9.279,0,0,0,5.013,2.6" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M.512,7.88a9.279,9.279,0,0,1,5.013,2.6,9.279,9.279,0,0,1,2.6,5.013" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

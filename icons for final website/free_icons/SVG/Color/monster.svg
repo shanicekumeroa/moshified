@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>monster</title>
+  <g>
+    <circle cx="8" cy="8" r="8" fill="#ab47bc"/>
+    <circle cx="8" cy="6" r="4" fill="#eceff1"/>
+    <circle cx="8" cy="6" r="2" fill="#263238"/>
+    <path d="M9.5,13h-3a.5.5,0,0,1,0-1h3a.5.5,0,0,1,0,1Z" fill="#fafafa"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>office</title>
+  <path d="M15.5,4H12V.5a.5.5,0,0,0-.5-.5h-8A.5.5,0,0,0,3,.5V7H.5a.5.5,0,0,0-.5.5v8a.5.5,0,0,0,.5.5h15a.5.5,0,0,0,.5-.5V4.5A.5.5,0,0,0,15.5,4ZM4,1h7V4H9.5a.5.5,0,0,0-.5.5V7.232L7,8.566V7.5A.5.5,0,0,0,6.5,7H4ZM1,8H6v7H1Zm14,7H7V9.768L9.777,7.916A.5.5,0,0,0,10,7.5V5h5Z"/>
+  <rect x="2" y="9" width="1" height="1"/>
+  <rect x="4" y="9" width="1" height="1"/>
+  <rect x="2" y="11" width="1" height="1"/>
+  <rect x="4" y="11" width="1" height="1"/>
+  <rect x="5" y="2" width="1" height="1"/>
+  <rect x="7" y="2" width="1" height="1"/>
+  <rect x="5" y="4" width="1" height="1"/>
+  <rect x="7" y="4" width="1" height="1"/>
+  <rect x="9" y="2" width="1" height="1"/>
+  <path d="M13.5,10h-2a.5.5,0,0,0-.5.5v2a.5.5,0,0,0,.5.5h2a.5.5,0,0,0,.5-.5v-2A.5.5,0,0,0,13.5,10ZM13,12H12V11h1Z"/>
+  <path d="M11,6.5v2a.5.5,0,0,0,.5.5h2a.5.5,0,0,0,.5-.5v-2a.5.5,0,0,0-.5-.5h-2A.5.5,0,0,0,11,6.5ZM12,7h1V8H12Z"/>
+</svg>

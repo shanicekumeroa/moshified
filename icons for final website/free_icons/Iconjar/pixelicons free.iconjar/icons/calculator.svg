@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>calculator</title>
+  <g>
+    <rect x="1" width="14" height="16" rx="1" ry="1" fill="#455a64"/>
+    <rect x="3" y="8" width="2" height="2" fill="#fafafa"/>
+    <rect x="7" y="8" width="2" height="2" fill="#fafafa"/>
+    <rect x="3" y="12" width="2" height="2" fill="#fafafa"/>
+    <rect x="7" y="12" width="2" height="2" fill="#fafafa"/>
+    <rect x="11" y="8" width="2" height="6" fill="#ffc107"/>
+    <rect x="3" y="2" width="10" height="4" rx="0.5" ry="0.5" fill="#fafafa"/>
+  </g>
+</svg>

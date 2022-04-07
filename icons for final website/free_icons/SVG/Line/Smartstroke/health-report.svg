@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>health-report</title>
+  <g>
+    <g>
+      <path d="M10.5,2.5H13a.5.5,0,0,1,.5.5V15a.5.5,0,0,1-.5.5H3a.5.5,0,0,1-.5-.5V3A.5.5,0,0,1,3,2.5H5.5" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M9,1.5a1,1,0,0,0-2,0H5.5v2h5v-2Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <polyline points="2.5 8.5 4.5 8.5 6 10.5 8 5.5 10 12.5 11.5 8.5 13.5 8.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

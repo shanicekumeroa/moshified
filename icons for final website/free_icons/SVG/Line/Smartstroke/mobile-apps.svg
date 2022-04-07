@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>mobile-apps</title>
+  <g>
+    <g>
+      <rect x="3.508" y="0.492" width="10" height="15" rx="0.5" ry="0.5" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+      <line x1="3.508" y1="13.492" x2="13.508" y2="13.492" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <line x1="3.508" y1="2.492" x2="13.508" y2="2.492" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <rect x="5.5" y="4.5" width="2" height="2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="9.5" y="4.5" width="2" height="2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="5.5" y="8.5" width="2" height="2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
