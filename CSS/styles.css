@@ -372,3 +372,21 @@ margin-bottom: 2rem;
         font-size: 1.7rem;
     }
 }
+
+/* MEDIA */
+
+.media{
+    display: flex;
+}
+
+.media__title{
+    margin-top: 0;
+}
+
+.media__body{
+    margin: 0 2rem;
+}
+
+.media__image{
+    margin: 1rem;
+}
