@@ -603,7 +603,7 @@ transform: rotate(0);
 }
 
 .block--dark{
-    background: #000;
+    background: rgb(1, 0, 0);
     color: #ac9e9e;
 }
 
