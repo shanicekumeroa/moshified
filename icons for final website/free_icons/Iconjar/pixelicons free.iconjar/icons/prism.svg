@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <title>prism</title>
-  <g>
-    <polygon points="0 11 8 16 16 11 0 11" fill="#2196f3"/>
-    <polygon points="0 11 8 16 8 0 0 11" fill="#1976d2" opacity="0.75"/>
-    <polygon points="16 11 8 16 8 0 16 11" fill="#64b5f6" opacity="0.75"/>
-  </g>
-</svg>

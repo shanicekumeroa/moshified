@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <title>cloudy</title>
-  <g>
-    <path d="M3.5,12.5a3,3,0,0,1,0-6,1.055,1.055,0,0,1,.25.02,4.5,4.5,0,0,1,8.73,1.03A2.867,2.867,0,0,1,13,7.5a2.5,2.5,0,0,1,0,5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M12.46,7.44A2.352,2.352,0,0,0,13,7.5a2.5,2.5,0,1,0-2.41-3.18" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-</svg>

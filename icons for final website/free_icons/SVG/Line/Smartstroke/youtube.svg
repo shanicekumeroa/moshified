@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <title>youtube</title>
-  <g>
-    <path d="M14.862,4.463c-.407-.7-.848-.831-1.747-.88S9.958,3.5,8,3.5s-4.22.024-5.117.083-1.339.178-1.75.88S.5,6.372.5,8.5v.008c0,2.117.216,3.333.635,4.026s.852.829,1.75.888S6.041,13.5,8,13.5s4.215-.03,5.114-.08,1.34-.187,1.747-.888c.424-.694.638-1.91.638-4.026V8.5C15.5,6.372,15.287,5.165,14.862,4.463Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd"/>
-    <polygon points="6.5 11 6.5 6 10.5 8.5 6.5 11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd"/>
-  </g>
-</svg>

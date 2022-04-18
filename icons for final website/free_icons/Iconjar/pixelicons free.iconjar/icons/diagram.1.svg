@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <title>diagram</title>
-  <g>
-    <circle cx="8" cy="8" r="8" fill="#1976d2"/>
-    <circle cx="8" cy="10.5" r="5.5" fill="#2196f3"/>
-    <circle cx="8" cy="13" r="3" fill="#64b5f6"/>
-  </g>
-</svg>

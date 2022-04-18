@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <title>prism</title>
-  <polygon points="0.5 11.5 15.5 11.5 8 15.5 0.5 11.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <polyline points="0.5 11.5 8 0.5 15.5 11.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="8" y1="0.5" x2="8" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
