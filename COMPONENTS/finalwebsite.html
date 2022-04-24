@@ -49,16 +49,18 @@
             type="images/webp"
             srcset="
               images/banner.webp,
-              images/banner2x.webp,
-              images/banner3x.webp
+              images/banner2x.webp 2x,
+              images/banner3x.webp 3x
             "
           />
-
           <source
             type="images/png"
-            srcset="images/banner.png, images/banner2x.png, images/banner3x.png"
+            srcset="
+              images/banner.png,
+              images/banner2x.png 2x,
+              images/banner3x.png 3x
+            "
           />
-
           <img class="hero__image" src="/images/banner.png" alt="" />
         </picture>
       </div>
@@ -194,7 +196,7 @@
           data-aos="flip-left"
           data-aos-easing="ease-out-cubic"
           data-aos-duration="1000"
-          >>
+        >
           <source
             type="images/webp"
             srcset="images/easy.webp 1x, images/easy@2x.webp 2x"
@@ -231,7 +233,7 @@
           data-aos="flip-right"
           data-aos-easing="ease-out-cubic"
           data-aos-duration="1000"
-          >>
+        >
           <source
             type="images/webp"
             srcset="images/fast.webp 1x, images/fast@2x.webp 2x"
@@ -268,7 +270,7 @@
           data-aos="flip-left"
           data-aos-easing="ease-out-cubic"
           data-aos-duration="1000"
-          >>
+        >
           <source
             type="images/webp"
             srcset="images/wordpress.webp 1x, images/wordpress@2x.webp 2x"
@@ -362,119 +364,115 @@
         </p>
       </header>
       <div class="container">
-
-          <div class="card testimonial">
-            <div class="grid grid--1x2">
-              <div class="testimonial__image">
-                <img
-                  src="/IMAGES/testimonial.jpg"
-                  alt="Happy, smiling customer"
-                />
-                <span class="icon-container icon-container--accent">
-                  <svg class="icon icon--white icon--small">
-                    <use xlink:href="/images/sprite.svg#quotes"></use>
-                  </svg>
-                </span>
-              </div>
-              <blockquote class="quote">
-                <p class="quote__text">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
-                  quam ad magnam sequi libero aliquam!
-                </p>
-                <footer>
-                  <div class="media">
-                    <div class="media__image">
-                      <svg class="icon icon--primary quote__line">
-                        <use xlink:href="/images/sprite.svg#line"></use>
-                      </svg>
-                    </div>
-                    <div class="media__body">
-                      <h3 class="media__title quote__author">
-                        Shanice Kumeroa
-                      </h3>
-                      <p class="quote__company">ALWAY$ HUNGRY</p>
-                    </div>
-                  </div>
-                </footer>
-              </blockquote>
+        <div class="card testimonial">
+          <div class="grid grid--1x2">
+            <div class="testimonial__image">
+              <img
+                src="/IMAGES/testimonial.jpg"
+                alt="Happy, smiling customer"
+              />
+              <span class="icon-container icon-container--accent">
+                <svg class="icon icon--white icon--small">
+                  <use xlink:href="/images/sprite.svg#quotes"></use>
+                </svg>
+              </span>
             </div>
+            <blockquote class="quote">
+              <p class="quote__text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
+                quam ad magnam sequi libero aliquam!
+              </p>
+              <footer>
+                <div class="media">
+                  <div class="media__image">
+                    <svg class="icon icon--primary quote__line">
+                      <use xlink:href="/images/sprite.svg#line"></use>
+                    </svg>
+                  </div>
+                  <div class="media__body">
+                    <h3 class="media__title quote__author">Shanice Kumeroa</h3>
+                    <p class="quote__company">ALWAY$ HUNGRY</p>
+                  </div>
+                </div>
+              </footer>
+            </blockquote>
           </div>
-        </body>
+        </div>
       </div>
-    </section>
-<!-- FOOTER -->
-<footer class="block block--dark footer">
-  <div class="container grid footer__sections">
-    <section class="collapsible collapsible--expanded footer__section">
-      <header class="collapsible__header">
-        <h2 class="collapsible__heading footer__heading">Products</h2>
-        <svg class="icon icon--white collapsible__chevron">
-          <use xlink:href="/images/sprite.svg#chevron"></use>
-        </svg>
-      </header>
-      <div class="collapsible__content">
-        <ul class="list">
-          <li><a href="#">Website Hosting</a></li>
-          <li><a href="#">Free Automated Wordpress</a></li>
-          <li><a href="#">Migrations</a></li>
-        </ul>
-      </div>
-    </section>
-    <section class="collapsible footer__section">
-      <header class="collapsible__header">
-        <h2 class="collapsible__heading footer__heading">Company</h2>
-        <svg class="icon icon--white collapsible__chevron">
-          <use xlink:href="/images/sprite.svg#chevron"></use>
-        </svg>
-      </header>
-      <div class="collapsible__content">
-        <ul class="list">
-          <li><a href="#">About</a></li>
-          <li><a href="#">Affiliates</a></li>
-          <li><a href="#">Blog</a></li>
-        </ul>
-      </div>
-    </section>
-    <section class="collapsible footer__section">
-      <header class="collapsible__header">
-        <h2 class="collapsible__heading footer__heading">Support</h2>
-        <svg class="icon icon--white collapsible__chevron">
-          <use xlink:href="/images/sprite.svg#chevron"></use>
-        </svg>
-      </header>
-      <div class="collapsible__content">
-        <ul class="list">
-          <li><a href="#">Contact</a></li>
-          <li><a href="#">Knowledge</a></li>
-          <li><a href="#">Base</a></li>
-          <li><a href="#">FAQ</a></li>
-        </ul>
-      </div>
-    </section>
-    <section class="collapsible collapsible--expanded footer__section">
-      <header class="collapsible__header">
-        <h2 class="collapsible__heading footer__heading">Domains</h2>
-        <svg class="icon icon--white collapsible__chevron">
-          <use xlink:href="/images/sprite.svg#chevron"></use>
-        </svg>
-      </header>
-      <div class="collapsible__content">
-        <ul class="list">
-          <li><a href="#">Domain</a></li>
-          <li><a href="#">Checker</a></li>
-          <li><a href="#">Domain</a></li>
-          <li><a href="#">Transfer</a></li>
-          <li><a href="#">Free Domain</a></li>
-        </ul>
-      </div>
-    </section>
-    <section class="footer__brand">
-      <img src="/images/logo.svg" alt="" />
-      <p class="footer__copyright">Copyright 2020 Shanice Kumeroa</p>
-    </section>
-  </div>
-</footer>
 
+      <!-- FOOTER -->
+      <footer class="block block--dark footer">
+        <div class="container grid footer__sections">
+          <section class="collapsible collapsible--expanded footer__section">
+            <div class="collapsible__header">
+              <h2 class="collapsible__heading footer__heading">Products</h2>
+              <svg class="icon icon--white collapsible__chevron">
+                <use xlink:href="/images/sprite.svg#chevron"></use>
+              </svg>
+            </div>
+            <div class="collapsible__content">
+              <ul class="list">
+                <li><a href="#">Website Hosting</a></li>
+                <li><a href="#">Free Automated Wordpress</a></li>
+                <li><a href="#">Migrations</a></li>
+              </ul>
+            </div>
+          </section>
+          <section class="collapsible footer__section">
+            <div class="collapsible__header">
+              <h2 class="collapsible__heading footer__heading">Company</h2>
+              <svg class="icon icon--white collapsible__chevron">
+                <use xlink:href="/images/sprite.svg#chevron"></use>
+              </svg>
+            </div>
+            <div class="collapsible__content">
+              <ul class="list">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Affiliates</a></li>
+                <li><a href="#">Blog</a></li>
+              </ul>
+            </div>
+          </section>
+          <section class="collapsible footer__section">
+            <div class="collapsible__header">
+              <h2 class="collapsible__heading footer__heading">Support</h2>
+              <svg class="icon icon--white collapsible__chevron">
+                <use xlink:href="/images/sprite.svg#chevron"></use>
+              </svg>
+            </div>
+            <div class="collapsible__content">
+              <ul class="list">
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Knowledge</a></li>
+                <li><a href="#">Base</a></li>
+                <li><a href="#">FAQ</a></li>
+              </ul>
+            </div>
+          </section>
+          <section class="collapsible collapsible--expanded footer__section">
+            <div class="collapsible__header">
+              <h2 class="collapsible__heading footer__heading">Domains</h2>
+              <svg class="icon icon--white collapsible__chevron">
+                <use xlink:href="/images/sprite.svg#chevron"></use>
+              </svg>
+            </div>
+            <div class="collapsible__content">
+              <ul class="list">
+                <li><a href="#">Domain</a></li>
+                <li><a href="#">Checker</a></li>
+                <li><a href="#">Domain</a></li>
+                <li><a href="#">Transfer</a></li>
+                <li><a href="#">Free Domain</a></li>
+              </ul>
+            </div>
+          </section>
+          <div class="footer__brand">
+            <img src="/images/logo.svg" alt="" />
+            <p class="footer__copyright">Copyright 2020 Shanice Kumeroa</p>
+          </div>
+        </div>
+      </footer>
+    </section>
     <!-- JAVASCRIPT CODE -->
     <script src="/js/main.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
